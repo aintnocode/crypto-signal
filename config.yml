@@ -1,0 +1,4 @@
+exchanges:
+  bittrex:
+    required:
+      enabled: true
